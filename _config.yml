@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Marc Mills
+title: Corpus Callosum - Connecting Both Sides of My Brain
 header-img: img/home-bg.png
 email: mdmills1990@gmail.com
-copyright_name: musicmills1990
+copyright_name: Marc Mills
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Corpus Callosum
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  musicmills1990
-learn_profile: musicmills1990
-email_username: mdmills1990@gmail.com
 
 # Build settings
 markdown: kramdown
